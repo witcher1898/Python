@@ -26,5 +26,6 @@ def password():
     string = [str(i) for i in newPassword]
     print("Ваш пароль:", ''.join(string))
 
-print ("gitChecking")
+
+print ("second git checking")
 password()
